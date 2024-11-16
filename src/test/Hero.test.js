@@ -6,7 +6,7 @@ import "@testing-library/jest-dom/extend-expect";
 describe("Hero Component", () => {
     test("Render hero image", () => {
         render(<Hero />);
-        const heroImage = screen.getAllByAltText("Hero Image")[0];
+        const heroImage = screen.getAllByAltText("Hero")[0];
 
         expect(heroImage).toBeInTheDocument();
         expect(heroImage).toHaveAttribute("src", "media/images/homeHero.png");

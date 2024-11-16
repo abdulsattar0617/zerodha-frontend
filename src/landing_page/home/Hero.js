@@ -6,7 +6,7 @@ function Hero() {
             <div className="row text-center">
                 <img
                     src="media/images/homeHero.png"
-                    alt="Hero Image"
+                    alt="Hero"
                     className="mb-5"
                 />
                 <h1 className="mt-5">Invest in everything</h1>
@@ -15,7 +15,6 @@ function Hero() {
                     funds, ETFs, bonds, and more.
                 </p>
                 <button
-                    role="button"
                     className="btn mt-4 p-2 fs-5 fw-semibold"
                     style={{
                         width: "25%",

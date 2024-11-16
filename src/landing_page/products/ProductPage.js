@@ -63,7 +63,7 @@ function ProductPage() {
             />
             <p className="text-center fs-4" >
                 Want to know more about our technology stack? Check out the{" "} 
-                <a href="#" className="text-decoration-none" >Zerodha.tech</a> blog.
+                <a href="/product" className="text-decoration-none" >Zerodha.tech</a> blog.
             </p>
             <Universe />
         </>

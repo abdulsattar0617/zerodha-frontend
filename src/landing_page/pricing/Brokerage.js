@@ -312,7 +312,7 @@ function Brokerage() {
             </div>
             <div className="row mt-3 px-5 fs-5 text-center">
                 <p>
-                    <a href="" className="text-decoration-none">
+                    <a href="/pricing" className="text-decoration-none">
                         Calculate your costs upfront
                     </a>{" "}
                     using our brokerage calculator
@@ -459,12 +459,12 @@ function Brokerage() {
                     <p>
                         For BSDA demat account: Zero charges if the holding
                         value is less than ₹4,00,000. To learn more about BSDA,
-                        <a href="">Click here</a>
+                        <a href="/pricing">Click here</a>
                     </p>
                     <p>
                         For non-BSDA demat accounts: ₹300/year + 18% GST charged
                         quarterly (90 days). To learn more about AMC,{" "}
-                        <a href="">Click here</a>
+                        <a href="/pricing">Click here</a>
                     </p>
                     <h4 className="fs-6 my-3">
                         Corporate action order charges
@@ -492,7 +492,7 @@ function Brokerage() {
                     <p>
                         Interest is levied at 18% a year or 0.05% per day on the
                         debit balance in your trading account.{" "}
-                        <a href="">Learn more.</a>
+                        <a href="/pricing">Learn more.</a>
                     </p>
                 </div>
             </div>
@@ -578,7 +578,7 @@ function Brokerage() {
                             <td>Kite Connect</td>
                             <td>Monthly</td>
                             <td>Connect: 2000 | Historical: 2000</td>
-                        </tr> 
+                        </tr>
                     </tbody>
                 </table>
             </div>

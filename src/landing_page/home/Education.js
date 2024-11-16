@@ -21,7 +21,7 @@ function Education() {
                             book in the world covering everything from the
                             basics to advanced trading.
                         </p>
-                        <a href="" className="text-decoration-none">
+                        <a href="/" className="text-decoration-none">
                             Varsity{" "}
                             <i
                                 class="fa fa-long-arrow-right"
@@ -35,7 +35,7 @@ function Education() {
                             community in India for all your market related
                             queries.
                         </p>
-                        <a href="" className="text-decoration-none">
+                        <a href="/" className="text-decoration-none">
                             TradingQ&A{" "}
                             <i
                                 class="fa fa-long-arrow-right"

@@ -51,14 +51,14 @@ function Stats() {
                     />
 
                     <div className="">
-                        <a href="" className="mx-5 text-decoration-none">
+                        <a href='/' className="mx-5 text-decoration-none">
                             Explore our products{" "}
                             <i
                                 class="fa fa-long-arrow-right"
                                 aria-hidden="true"
                             ></i>
                         </a>
-                        <a href="" className="text-decoration-none">
+                        <a href='/' className="text-decoration-none">
                             Try Kite demo{" "}
                             <i
                                 class="fa fa-long-arrow-right"
