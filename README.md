@@ -1,4 +1,4 @@
-# Zerodha
+# Zerodha (Frontend)
 
 The Zerodha Clone project replicates basic stock trading functionalities, including buying stocks and placing orders, in a dummy-based environment. The backend powers user authentication, and mock transactions, providing a safe space for users to experience stock trading without financial risks.
 
@@ -14,7 +14,7 @@ The Zerodha Clone project replicates basic stock trading functionalities, includ
 - [Contributing](#contributing)
 - [License](#license)
 
-## About the Project - Zerodha (Frontend)
+## About the Project
 
 This project is a frontend replica of the Zerodha platform, focusing on delivering information related to brokerage, pricing, and trading services. The site mimics Zerodha's offerings such as pricing details, products, and brokerage plans. It provides static pages, including Home, Signup, Products, Pricing, and more, that users can explore for educational and informational purposes. Note: The frontend connects to a backend server for authentication and data fetching, which is handled by the [Zerodha Backend](https://github.com/abdulsattar0617/zerodha-backend) repo.
 
