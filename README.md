@@ -9,6 +9,7 @@ The Zerodha Clone project replicates basic stock trading functionalities, includ
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Routes & Components](#routes-&-Components)
 - [Project Structure (MVC)](#project-structure-mvc)
 - [Live Demo](#live-demo)
 - [Contributing](#contributing)
