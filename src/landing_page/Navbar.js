@@ -36,7 +36,7 @@ function Navbar() {
                                 <Link
                                     className="nav-link"
                                     aria-current="page"
-                                    to={`http://localhost:3002/login`}
+                                    to={`https://zerodha-dashboard-c7ln.onrender.com/login`}
                                 >
                                     Signup
                                 </Link>
