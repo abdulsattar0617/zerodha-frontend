@@ -108,7 +108,7 @@ This project is a frontend replica of the Zerodha platform, focusing on deliveri
 6. For data integration, refer to the [Zerodha Backend](https://github.com/abdulsattar0617/zerodha-backend) repository.
 
 
-## Live Demo (change_me)
+## Live Demo
 
 You can access the live version of the application here: [Zerodha Live Demo](https://zerodha-frontend-xl0h.onrender.com)
 
