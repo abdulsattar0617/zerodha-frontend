@@ -110,7 +110,7 @@ This project is a frontend replica of the Zerodha platform, focusing on deliveri
 
 ## Live Demo (change_me)
 
-You can access the live version of the application here: [Zerodha Live Demo](https://wanderlust-zr73.onrender.com/)
+You can access the live version of the application here: [Zerodha Live Demo](https://zerodha-frontend-xl0h.onrender.com)
 
 
 ## Project Structure
