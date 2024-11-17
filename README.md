@@ -90,7 +90,7 @@ This project is a frontend replica of the Zerodha platform, focusing on deliveri
 
 
  
-### Usage
+## Usage
 
 1. Clone or download the repository to your local machine.
 2. Run `npm install` to install the dependencies.
